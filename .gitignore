@@ -1,0 +1,32 @@
+# Mac
+.DS_Store
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Nodejs
+node_modules
+package-lock.json
+yarn.lock
+
+# dist
+/dist
+
+.idea
+
+.project
+.xml
+
+.vscode
+.lock
+
+*.bat
+
+CICD/urls-prod.json
+CICD/urls-test.json

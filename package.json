@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-plugin-mico-all-readme",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A Vue CLI plugin to output project all readme.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "luxian",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^10.1.0",
+    "glob": "^7.1.6",
+    "inquirer": "^7.3.3",
+    "path": "^0.12.7",
+    "fast-glob": "^3.2.12"
+  }
+}
