@@ -1,4 +1,4 @@
-# vue-cli-plugin-mico-all-readme
+# vue-cli-plugin-all-readme
 
 Vue CLI 3 plugin for output Project All readme.md.
 
@@ -13,6 +13,6 @@ npm install -g @vue/cli
 Cd your vue project, run the following command in the project root folder:
 
 ```
-npm i vue-cli-plugin-mico-all-readme
-vue invoke vue-cli-plugin-mico-all-readme
+npm i vue-cli-plugin-all-readme
+vue invoke vue-cli-plugin-all-readme
 ```

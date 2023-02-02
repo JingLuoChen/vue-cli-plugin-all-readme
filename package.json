@@ -1,5 +1,5 @@
 {
-  "name": "vue-cli-plugin-mico-all-readme",
+  "name": "vue-cli-plugin-all-readme",
   "version": "1.0.0",
   "private": false,
   "description": "A Vue CLI plugin to output project all readme.md",
